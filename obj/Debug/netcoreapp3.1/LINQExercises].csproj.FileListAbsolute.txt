@@ -1,0 +1,13 @@
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].exe
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].deps.json
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].runtimeconfig.json
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].runtimeconfig.dev.json
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].dll
+C:\Users\xidoa\source\repos\LINQExercises]\bin\Debug\netcoreapp3.1\LINQExercises].pdb
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].csprojAssemblyReference.cache
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].AssemblyInfoInputs.cache
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].AssemblyInfo.cs
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].csproj.CoreCompileInputs.cache
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].dll
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].pdb
+C:\Users\xidoa\source\repos\LINQExercises]\obj\Debug\netcoreapp3.1\LINQExercises].genruntimeconfig.cache
